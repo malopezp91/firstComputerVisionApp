@@ -1,0 +1,20 @@
+{
+  "name": "first-js-feat-app",
+  "version": "1.0.0",
+  "description": "A small App that uses JsFeat for Computer Vision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computer",
+    "vision",
+    "jsfeat"
+  ],
+  "author": "malopezp.91",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jsfeat": "0.0.8"
+  }
+}
